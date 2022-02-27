@@ -1,25 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Header from "./Components/Header/Header";
+import Players from "./Components/Players/Players";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <>
+            <Header></Header>
+            <Players></Players>
+            <footer
+                style={{
+                    textAlign: "center",
+                    marginBottom: "20px",
+                    color: "#013869",
+                }}
+            >
+                Designed and Developed by Saurav Ghosh
+            </footer>
+        </>
+    );
 }
 
 export default App;

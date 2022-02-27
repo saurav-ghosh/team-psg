@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "img": "https://i.ibb.co/1mJrMbr/messi.jpg",
+        "salary": 900,
+        "title": "Forwards",
+        "previous_team": "Bercelona FC",
+        "country": "Argentina"
+    },
+    {
+        "id": 2,
+        "name": "Neymar Jr",
+        "img": "https://i.ibb.co/tm3Z9Dc/neymer.jpg",
+        "salary": 800,
+        "title": "Forwards",
+        "previous_team": "Bercelona FC",
+        "country": "Brazil"
+    },
+    {
+        "id": 3,
+        "name": "Kylian Mbappe",
+        "img": "https://i.ibb.co/Dpszpxh/mbappe.jpg",
+        "salary": 750,
+        "title": "Forwards",
+        "previous_team": "PSG",
+        "country": "France"
+    },
+    {
+        "id": 4,
+        "name": "Mauro Icardi",
+        "img": "https://i.ibb.co/nCFmxZN/mauro.jpg",
+        "salary": 600,
+        "title": "Forwards",
+        "previous_team": "Real Madrid",
+        "country": "Argentina"
+    },
+    {
+        "id": 5,
+        "name": "Eric-Junior",
+        "img": "https://i.ibb.co/j5b5kPg/eric.jpg",
+        "salary": 550,
+        "title": "Midfielder",
+        "previous_team": "Mancester United",
+        "country": "France"
+    },
+    {
+        "id": 6,
+        "name": "Leandro Paredes",
+        "img": "https://i.ibb.co/vLyF87g/leandro.jpg",
+        "salary": 500,
+        "title": "Midfielder",
+        "previous_team": "PSG",
+        "country": "Argentina"
+    },
+    {
+        "id": 7,
+        "name": "Julian Draxler",
+        "img": "https://i.ibb.co/0MjmcDx/draxler.jpg",
+        "salary": 780,
+        "title": "Midfielder",
+        "previous_team": "Arsenal",
+        "country": "German"
+    },
+    {
+        "id": 8,
+        "name": "Ander Harrera",
+        "img": "https://i.ibb.co/nk4Jnjc/Ander-Herrera.jpg",
+        "salary": 750,
+        "title": "Midfielder",
+        "previous_team": "Arsenal",
+        "country": "Spain"
+    },
+    {
+        "id": 9,
+        "name": "Georginio Wijnald",
+        "img": "https://i.ibb.co/ZTXNbCt/georgino.jpg",
+        "salary": 650,
+        "title": "Midfielder",
+        "previous_team": "PSG",
+        "country": "Denmark"
+    },
+    {
+        "id": 10,
+        "name": "Danilo Pereira",
+        "img": "https://i.ibb.co/pP6z3JC/danilo-pereira.jpg",
+        "salary": 550,
+        "title": "Midfielder",
+        "previous_team": "Bercelona FC",
+        "country": "Portugal"
+    },
+    {
+        "id": 11,
+        "name": "Angel Di Maria",
+        "img": "https://i.ibb.co/8bntMp5/di-maria.jpg",
+        "salary": 800,
+        "title": "Midfielder",
+        "previous_team": "PSG",
+        "country": "Argentina"
+    },
+    {
+        "id": 12,
+        "name": "Marco Verrati",
+        "img": "https://i.ibb.co/HzG7dXR/marco-Verratti.jpg",
+        "salary": 730,
+        "title": "Midfielder",
+        "previous_team": "Mancester United",
+        "country": "Italy"
+    },
+    {
+        "id": 13,
+        "name": "Marquinhos",
+        "img": "https://i.ibb.co/cLcVbPg/marquinhos.jpg",
+        "salary": 630,
+        "title": "Defender",
+        "previous_team": "Real Madrid",
+        "country": "Brazil"
+    },
+    {
+        "id": 14,
+        "name": "Sergio Ramos",
+        "img": "https://i.ibb.co/GHszQDv/ramos.jpg",
+        "salary": 790,
+        "title": "Defender",
+        "previous_team": "Real Madrid",
+        "country": "Spain"
+    },
+    {
+        "id": 15,
+        "name": "Achraf Hakimi",
+        "img": "https://i.ibb.co/Rz8VHq3/Achraf-Hakimi.jpg",
+        "salary": 580,
+        "title": "Defender",
+        "previous_team": "PSG",
+        "country": "Morocco"
+    }
+]

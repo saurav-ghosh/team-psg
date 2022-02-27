@@ -1,0 +1,28 @@
+.playerBoughtContainer {
+    width: 280px;
+    border: 1px solid #d3d3d3;
+    /* box-shadow: -5px -4px 3px 0 rgb(243, 243, 243),
+        5px 4px 3px 0 rgba(88, 88, 88, 0.425); */
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.playerBoughtContainer h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.totalCost {
+    margin-top: 10px;
+}
+
+.playersList {
+    margin: 10px 0;
+}
+
+.playersList p {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.5;
+}

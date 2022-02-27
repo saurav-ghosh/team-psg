@@ -1,0 +1,11 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 0 20px 0;
+}
+
+.playerContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}

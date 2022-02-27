@@ -1,0 +1,29 @@
+.logo {
+    width: 40px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 15px 0;
+}
+
+.navLink a {
+    padding: 8px 25px;
+    margin: 0 5px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    transition: 0.3s;
+}
+
+.navLink a:hover {
+    background-color: #013869;
+    color: #fff;
+}
