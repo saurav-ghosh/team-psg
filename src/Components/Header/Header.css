@@ -13,7 +13,7 @@
     margin: 15px 0;
 }
 
-.navLink a {
+.navLink .button {
     padding: 8px 25px;
     margin: 0 5px;
     text-decoration: none;
@@ -21,9 +21,13 @@
     font-weight: 500;
     color: #333;
     transition: 0.3s;
+    outline: none;
+    background: none;
+    border: none;
+    cursor: pointer;
 }
 
-.navLink a:hover {
+.navLink .button:hover {
     background-color: #013869;
     color: #fff;
 }
